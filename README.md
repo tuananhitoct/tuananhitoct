@@ -1,4 +1,4 @@
-![](https://res.cloudinary.com/tuananh-asia/image/upload/v1594352787/monkey-with-surprise-face-beach_167636-5_uhybmw.jpg)
+![](https://res.cloudinary.com/tuananh-asia/image/upload/v1594352067/86994913-47366580-c1da-11ea-8c1f-1a9b84ad340f_vpx6qw.jpg)
 
 I am React/Angular/NodeJS Enthusiast. Currently working as a Development Engineer for [JSLancer Team](https://jslancer.com).  
 Outside of work, I make an nodejs source such as [DI Singleton NodeJS](https://github.com/tuananhitoct/singleton-di-nodejs) 👋
