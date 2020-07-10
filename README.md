@@ -6,5 +6,5 @@ Outside of work, I make an nodejs source such as [DI Singleton NodeJS](https://g
 ### Check out my social medias:
 
 - 💬 [Personal blog](https://tuananh.asia)
-- 📹 [Facebook Group](https://www.facebook.com/groups/AngularVietnam)
+- 📹 [Facebook](https://www.facebook.com/clement.le24)
 - 🐦 [Twitter](https://twitter.com/clementle24)
