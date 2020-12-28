@@ -8,4 +8,4 @@ Outside of work, I make an nodejs source such as [DI Singleton NodeJS](https://g
 - 🐦 [Twitter](https://twitter.com/clementle24)
 
 ![tuananhitoct's github stats](https://github-readme-stats.vercel.app/api?username=tuananhitoct&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuananhitoct&theme=nightowl)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuananhitoct&theme=nightowl)
